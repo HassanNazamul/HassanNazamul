@@ -49,7 +49,7 @@
 </div>
 
 ###
-
+<h1 align="left">Profile view Count</h1>
 <div align="center">
   <img src="https://profile-counter.glitch.me/HassanNazamul/count.svg?"  />
 </div>
